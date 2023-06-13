@@ -1,0 +1,2 @@
+# Admin
+For administrative users.
